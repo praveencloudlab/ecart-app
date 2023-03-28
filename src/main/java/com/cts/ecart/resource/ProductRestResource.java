@@ -12,6 +12,6 @@ public class ProductRestResource {
 
     @GetMapping
     public String f1(){
-        return "Welcome to my APP";
+        return "Welcome to my APP ...";
     }
 }
