@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EcartAppApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(EcartAppApplication.class, args);
+        System.out.println(">>>>>>>>>> ECART-APPLICATION ::: PRAVEEN <<<<<<<<<<<<<");
     }
 
 }
